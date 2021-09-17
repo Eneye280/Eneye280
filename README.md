@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hello welcome to my repository 👋
 
-<!--
 **Eneye280/Eneye280** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,5 +9,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with DOTS
 - 💬 Ask me about Videogames
 - 📫 How to reach me: eneye280@gmail.com
-- 😄 Pronouns: Eu / Eneye 
--->
+- 😄 Pronouns: he/him 
