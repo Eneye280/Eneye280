@@ -1,6 +1,6 @@
 ### Hello welcome to my repository 👋
 
-<img align="right" width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
+  <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
 
 **Eneye280/Eneye280** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
