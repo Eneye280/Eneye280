@@ -2,11 +2,6 @@
 
 <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
 
-<br/>
-
----
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on PARCEROS GAMES
