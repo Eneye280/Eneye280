@@ -9,4 +9,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with DOTS
 - 💬 Ask me about Videogames
 - 📫 How to reach me: eneye280@gmail.com
-- 😄 Pronouns: he/him 
