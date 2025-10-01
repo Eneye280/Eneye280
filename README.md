@@ -32,21 +32,6 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
 </p>
 
-<!-- 🎯 ENFOQUE ACTUAL -->
-<h3 align="center">🚀 Current Focus</h3>
-<p align="center">
-  🔭 <b>Project:</b> PARCEROS GAMES — high-speed arcade shooter with Unity DOTS<br/>
-  🌱 <b>Learning:</b> UE5 & Unity DOTS for massive-scale gameplay<br/>
-  🤝 <b>Open to:</b> Collaborations, feedback, and DOTS wizards<br/>
-  💬 <b>Ask me about:</b> Game feel, shaders, or why tacos > pizza<br/>
-</p>
-
-<!-- 🔥 ACTIVIDAD RECIENTE -->
-<h3 align="center">⚡ Recent GitHub Activity</h3>
-<p align="center">
-  <a href="https://github.com/Eneye280"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Eneye280&bg_color=0d1117&color=00f5ff&line=00f5ff&point=ffffff&area=true&area_color=1e3a8a" alt="Activity"/></a>
-</p>
-
 ---
 
 <!-- 🧩 FOOTER CITA -->
